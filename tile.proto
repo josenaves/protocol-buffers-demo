@@ -1,0 +1,4 @@
+message Tile {
+	required string url = 1;
+	required bytes img = 2;
+}

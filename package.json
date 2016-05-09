@@ -1,0 +1,8 @@
+{
+  "name": "protocol-buffers-demo",
+  "version": "1.0.0",
+  "description": "Protocol Buffers demo",
+  "dependencies": {
+    "protobufjs": "latest"
+  }
+}

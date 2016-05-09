@@ -1,0 +1,4 @@
+message WorkOrder {
+	required string action = 1;
+	required bytes img = 2;
+}
